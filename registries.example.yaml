@@ -1,0 +1,6 @@
+- username: "user1"
+  scheme: "http"
+  host: "user1-service:5000"
+- username: "docker"
+  scheme: "https"
+  host: "docker.io"
